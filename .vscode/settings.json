@@ -1,0 +1,10 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/user/Downloads/algorithms/lib/algs4.jar"
+    ],
+    "java.classPath": [
+        "/Users/user/Downloads/algorithms/lib/algs4.jar"
+    ],
+    "java.checkstyle.configuration": "https://algs4.cs.princeton.edu/mac/checkstyle-algs4.xml"
+}
